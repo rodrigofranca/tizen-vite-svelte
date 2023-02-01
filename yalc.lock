@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "svelte-spatial-navigation": {
+      "signature": "873da52d6730fd24dfefa51de57cadd9",
+      "file": true
+    }
+  }
+}

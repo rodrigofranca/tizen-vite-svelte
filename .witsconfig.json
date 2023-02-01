@@ -1,0 +1,12 @@
+{
+  "connectionInfo": {
+    "deviceIp": "[set_your_device_ip]",
+    "hostIp": "[set_your_host_ip]",
+    "socketPort": 3160,
+    "width": "1920",
+    "isDebugMode": true
+  },
+  "profileInfo": {
+    "path": "[set_your_profile_path]"
+  }
+}

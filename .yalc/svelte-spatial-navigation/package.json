@@ -1,0 +1,16 @@
+{
+  "name": "svelte-spatial-navigation",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": {
+    "./package.json": "./package.json",
+    "./SpatialNavigation.svelte": "./SpatialNavigation.svelte",
+    "./SpatialNavigation": "./SpatialNavigation.js",
+    "./actions/focusable": "./actions/focusable.js",
+    "./core/js_spatial_navigation": "./core/js_spatial_navigation.js",
+    ".": "./index.js",
+    "./store/navigation": "./store/navigation.js"
+  },
+  "svelte": "./index.js",
+  "yalcSig": "873da52d6730fd24dfefa51de57cadd9"
+}
